@@ -1,2 +1,2 @@
-# laboratorio-htlm
-esercitazioni di htlm
+# laboratorio-html
+esercitazioni di html
