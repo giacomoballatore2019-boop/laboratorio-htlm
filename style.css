@@ -81,7 +81,7 @@ li {
 }
 
 /* Evidenza del collegamento quando selezionato con la tastiera */
-.pulsante:focus-visible {
+.pulsante:focus-visibl
     outline: 3px solid #b54e00;
     outline-offset: 4px;
 }
@@ -93,3 +93,8 @@ footer {
     font-size: 14px;
     color: #526174;
 }
+table,th,td{border:1px solid black;}
+caption{font-weight:bold;color:blue}
+th{background-color:yellow;}
+td{text-align:center;}
+tt
